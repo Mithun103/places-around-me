@@ -9,8 +9,9 @@ start a django project and create templates folder
 ### Step 2:
 then write the code in html files and assign path and edit views 
 ## Code:
+```
 #map.html:
-```<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <title>alagappa university Image Map</title>
@@ -124,6 +125,9 @@ The services that libraries offer are variously described as library services, i
 </html>
 ```
 ## Output:
+ ![map](file:///home/sec/Pictures/Screenshots/mithun/Screenshot%20from%202023-01-24%2022-33-49.png)
+
+
 
 ## Result:
 mapping program was executed successfully
