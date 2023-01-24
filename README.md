@@ -10,7 +10,7 @@ start a django project and create templates folder
 then write the code in html files and assign path and edit views 
 ## Code:
 ```
-#map.html:
+## map.html:
 <!DOCTYPE html>
 <html>
     <head>
@@ -125,9 +125,18 @@ The services that libraries offer are variously described as library services, i
 </html>
 ```
 ## Output:
- ![map](file:///home/sec/Pictures/Screenshots/mithun/Screenshot%20from%202023-01-24%2022-33-49.png)
-
-
+## map: 
+![Screenshot from 2023-01-24 22-33-49](https://user-images.githubusercontent.com/118344695/214361452-f9921149-d450-40f7-8443-500e75aaa1a2.png)
+## cse:
+![Screenshot from 2023-01-24 22-34-11](https://user-images.githubusercontent.com/118344695/214361606-84b09927-7113-412a-8d5b-ab38c016e3c0.png)
+## cadllab:
+![Screenshot from 2023-01-24 22-36-42](https://user-images.githubusercontent.com/118344695/214361710-fd9a49be-cd2f-4582-9c67-7312199b3efc.png)
+## ECE:
+![Screenshot from 2023-01-24 22-34-24](https://user-images.githubusercontent.com/118344695/214361761-0ce20ad8-ff11-4df7-89c2-c5c8e60bb26b.png)
+## mechanical:
+![Screenshot from 2023-01-24 22-33-57](https://user-images.githubusercontent.com/118344695/214361820-2b859e1c-fb5c-4a68-86ce-a9b82a2fc786.png)
+## library:
+![Screenshot from 2023-01-24 22-34-32](https://user-images.githubusercontent.com/118344695/214362005-45fea55f-390e-44cb-abbb-c8c976229768.png)
 
 ## Result:
 mapping program was executed successfully
